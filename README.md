@@ -1,2 +1,2 @@
 # LynxRouting
-Selected code from final pruject doing bus route optimization for Lynx.
+Selected code from final project doing bus route optimization for Lynx.
